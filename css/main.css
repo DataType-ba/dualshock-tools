@@ -257,6 +257,11 @@ pre,
 }
 
 /* Footer datatype logo */
+.footer-datatype-link {
+  display: inline-block;
+  cursor: pointer;
+}
+
 .footer-datatype-logo {
   height: 18px;
   width: auto;
